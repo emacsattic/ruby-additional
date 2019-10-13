@@ -1,6 +1,7 @@
 ;;; ruby-additional.el --- ruby-mode extensions yet to be merged into Emacs
 
 ;; Authors: Yukihiro Matsumoto, Nobuyoshi Nakada, Akinori MUSHA
+;; License: BSD-2-clause
 ;; URL: https://svn.ruby-lang.org/cgi-bin/viewvc.cgi/trunk/misc/
 ;; Created: 3 Sep 2012
 ;; Package-Requires: ((emacs "24.3") (ruby-mode "1.2"))
